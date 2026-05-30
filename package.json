@@ -1,11 +1,11 @@
 {
   "name": "com.furkantokkan.service-locator",
-  "version": "0.1.1",
-  "displayName": "Furkan Tokkan Service Locator",
+  "version": "0.1.2",
+  "displayName": "Service Locator Unity",
   "description": "Scoped Unity service lookup with project, scene, and GameObject hierarchy contexts.",
   "unity": "6000.0",
-  "documentationUrl": "https://github.com/furkantokkan/unity-service-locator#readme",
-  "changelogUrl": "https://github.com/furkantokkan/unity-service-locator/blob/master/CHANGELOG.md",
+  "documentationUrl": "https://github.com/furkantokkan/service-locator-unity#readme",
+  "changelogUrl": "https://github.com/furkantokkan/service-locator-unity/blob/master/CHANGELOG.md",
   "keywords": [
     "unity",
     "service-locator",
@@ -17,6 +17,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/furkantokkan/unity-service-locator.git"
+    "url": "https://github.com/furkantokkan/service-locator-unity.git"
   }
 }

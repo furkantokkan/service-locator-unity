@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.2
+
+- Renamed the public package title to `Service Locator Unity`.
+- Updated repository, documentation, changelog, and install URLs for `service-locator-unity`.
+
 ## 0.1.1
 
 - Rewrote README with clearer positioning, scoped lookup rules, usage examples, migration notes, and package limitations.

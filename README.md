@@ -1,4 +1,4 @@
-# Furkan Tokkan Service Locator
+# Service Locator Unity
 
 Scoped service lookup for Unity projects: project-wide, scene-wide, and GameObject-hierarchy services without pulling in a full dependency injection container.
 
@@ -52,7 +52,7 @@ Add the package to `Packages/manifest.json`:
 ```json
 {
   "dependencies": {
-    "com.furkantokkan.service-locator": "https://github.com/furkantokkan/unity-service-locator.git#v0.1.1"
+    "com.furkantokkan.service-locator": "https://github.com/furkantokkan/service-locator-unity.git#v0.1.2"
   }
 }
 ```
