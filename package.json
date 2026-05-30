@@ -1,0 +1,16 @@
+{
+  "name": "com.furkantokkan.service-locator",
+  "version": "0.1.0",
+  "displayName": "Furkan Tokkan Service Locator",
+  "description": "Scoped service lookup for Unity projects with project, scene, and GameObject contexts.",
+  "unity": "6000.0",
+  "keywords": [
+    "unity",
+    "service-locator",
+    "dependency-injection"
+  ],
+  "author": {
+    "name": "Furkan Tokkan",
+    "url": "https://github.com/furkantokkan"
+  }
+}
