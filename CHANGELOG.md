@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.3
+
+- Added direct Unity Package Manager UI install instructions for the `+ > Add package from git URL...` flow.
+- Updated install examples to `v0.1.3`.
+
 ## 0.1.2
 
 - Renamed the public package title to `Service Locator Unity`.

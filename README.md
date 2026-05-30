@@ -47,12 +47,27 @@ The result is not a full DI framework. It is a small bridge for codebases that n
 
 ## Install
 
-Add the package to `Packages/manifest.json`:
+### Unity Package Manager UI
+
+1. Open `Window > Package Manager`.
+2. Click the `+` button.
+3. Select `Add package from git URL...`.
+4. Paste this URL:
+
+```text
+https://github.com/furkantokkan/service-locator-unity.git#v0.1.3
+```
+
+Unity will add the package as `com.furkantokkan.service-locator`.
+
+### manifest.json
+
+You can also add it manually to `Packages/manifest.json`:
 
 ```json
 {
   "dependencies": {
-    "com.furkantokkan.service-locator": "https://github.com/furkantokkan/service-locator-unity.git#v0.1.2"
+    "com.furkantokkan.service-locator": "https://github.com/furkantokkan/service-locator-unity.git#v0.1.3"
   }
 }
 ```

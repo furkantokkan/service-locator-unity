@@ -1,6 +1,6 @@
 {
   "name": "com.furkantokkan.service-locator",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "displayName": "Service Locator Unity",
   "description": "Scoped Unity service lookup with project, scene, and GameObject hierarchy contexts.",
   "unity": "6000.0",
